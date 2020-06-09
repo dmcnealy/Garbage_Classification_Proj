@@ -1,4 +1,5 @@
 ## Some of this code was borrowed from pytorch.org/tutorials
+## Github https://github.com/dmcnealy/Garbage_Classification_Proj.git
 
 import numpy as np
 import torch
